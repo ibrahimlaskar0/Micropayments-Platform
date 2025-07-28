@@ -64,6 +64,9 @@ Our vision is to revolutionize the digital content economy by creating a frictio
 - **Layer 2 Solutions**: Implement scaling solutions for even lower transaction costs
 - **Cross-platform Compatibility**: Support for web, mobile, and desktop applications
 
+Contract address:  0x2012663D7BB9FFb257e0154923a78116c5C596ED
+<img width="1894" height="848" alt="{CDD33BC7-C78D-4395-931C-4FABDA7E72B6}" src="https://github.com/user-attachments/assets/8da68812-3fdb-4720-a68b-65182a2a7460" />
+
 ---
 
 **Built with ❤️ by ibrahimlaskar0**
